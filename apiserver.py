@@ -10,3 +10,5 @@ import model
 import flask
 from flask_sqlalchemy import SQLAlchemy
 from datetime import datetime
+
+d = datetime.now()
